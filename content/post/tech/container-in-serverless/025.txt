@@ -1,6 +1,0 @@
-# Publishing demo and go
-
-nim action update hellopy hello.py
-nim action invoke hellopy
-nim action update hellogo hello.go
-nim action invoke hellogo 

@@ -1,8 +1,0 @@
-# Nimbella
-
-```
-nim auth login "$NIMTOKEN"
-nim action update chess chess.zip --kind go:1.12 --web true
-nim action get chess --url
-```
-
