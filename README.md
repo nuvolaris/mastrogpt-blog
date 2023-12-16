@@ -6,7 +6,6 @@ Open repository for MastroGPT's blog.
 - [Usage](#usage)
 - [Resources](#resources)
 - [Contributing](#contributing)
-- [Support](#support)
 - [License](#license)
 
 ## Installation
