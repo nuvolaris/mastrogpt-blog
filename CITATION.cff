@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: If you use this software in your work, please cite it using the following metadata
+title: MastroGPT Blog
+authors:
+- family-names: Nuvolaris
+  given-names: Inc.
+keywords:
+- credit
+- citation
+version: 0.1.0
+date-released: 2023-12-01
+license: MIT
+repository-code: https://github.com/nuvolaris/mastrogpt-blog
